@@ -1,0 +1,6 @@
+.gradient-box{
+    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#66cccc), to(#336666));
+
+    height: 120px;
+    width: 300px;
+}
